@@ -561,7 +561,7 @@ body{
 .About{
    
     height: auto;
-    width: 330px;
+    width: 300px;
     background-color: white;
     margin-left: 29px;
     margin-top: 80px;
@@ -781,7 +781,7 @@ body{
     align-items: center;
     color: white;
     font-size: large;
-    width: 100%;
+    width: 130%;
     position: relative;
     /* left: 4px; */
 }
